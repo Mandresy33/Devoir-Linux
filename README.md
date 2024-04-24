@@ -86,8 +86,10 @@ II.  Installation de Apache:
 		J’ai ensuite vérifié si la serveur a bien été installé en éxecutant la commande: 
 			#/usr/local/httpd-2.4.59/bin/httpd -v
 III. Installation de PHP
-	1)Téléchargement des sources: 
-		Les sources de PHP sont disponibles à l’adresse: 
+	
+
+     1)Téléchargement des sources: 
+	     	Les sources de PHP sont disponibles à l’adresse: 
 		http://www.php.net/downloads.php
 		J’ai mis les sources sous /tmp/ sous la forme d’un fichier php-8.3.6.tar.bz2.
 	
