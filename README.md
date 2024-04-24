@@ -25,8 +25,7 @@ Installation des paquets Mysql, Apache et PHP a partir des sources sous la distr
 				$sudo apt-get install cmake
 			_ J’execute la commande cmake
 				$cmake ..
-			Là, j’ai rencontré une erreur de configuration comme 			suit: “ Cmake Error at cmake/boost.cmake:108 (MESSAGE):....
-.......You can download boost manually, from https://boostorg.jfrog.io/artifactory/main/release/1.77.0/source/boost_1_77_0.tar.bz2”
+			Là, j’ai rencontré une erreur de configuration comme suit: “ Cmake Error at cmake/boost.cmake:108 (MESSAGE):...........You can download boost manually, from https://boostorg.jfrog.io/artifactory/main/release/1.77.0/source/boost_1_77_0.tar.bz2”
 			Le message  d’erreur signifie que je doit installer un boost; alors j’ai télécharger un code source de boost : boost_1_77_0.tar.gz que j’ai mis sous /home/mit/Devoir. Puis j’installe le paquetage.
 			_ Je reviens dans le repertoire Devoir: 
 				$cd ..
