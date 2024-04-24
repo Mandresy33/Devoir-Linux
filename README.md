@@ -1,7 +1,8 @@
 # Devoir-Linux
 Installation des paquets Mysql, Apache et PHP a partir des sources sous la distribution Ubuntu de Linux
 
-    I. Installation de Mysql: 
+    I. Installation de Mysql:
+    
            L’installation de Mysql à partir du code source sous Ubuntu Linux se fait généralement en 5 étapes
            1) Téléchargement du code source: 
                    On peut télécharger MySQL pour Linux à partir du site officiel de MySQL: 
