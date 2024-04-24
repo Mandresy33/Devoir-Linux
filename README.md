@@ -8,7 +8,7 @@ Installation des paquets Mysql, Apache et PHP a partir des sources sous la distr
            1) Téléchargement du code source: 
                    On peut télécharger MySQL pour Linux à partir du site officiel de MySQL: 
                    https://dev.mysql.com/downloads/mysql/
-	    2) Décompression et désarchivage des sources: 
+	         2) Décompression et désarchivage des sources: 
 		     _J’ai mis le code source téléchargé sous /home/mit/Devoir
 		     _Je me déplace dans le repertoire Devoir:
 				$cd devoir
@@ -46,7 +46,7 @@ Installation des paquets Mysql, Apache et PHP a partir des sources sous la distr
 	   4) Compilation: 
  		    La compilation se fait dans le même répertoire par la commande make 
 				$make
-	 5) Installation:
+	   5) Installation:
 		   L’installation se fait avec la commande: 
 				$sudo make install
 		  Pour vérifier l’installation, il suffit d”executer la commande suivante: 
